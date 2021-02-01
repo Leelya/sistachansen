@@ -1,0 +1,50 @@
+return {
+    ["Bozzetto Skathi"]={
+        ["Noxious Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Implaing Disregard"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        }, 
+        ["Petrifaction"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Lady Lilith"]={
+        ["Dark Thorn"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Fatal Allure"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="turnaround"
+        }
+    }, 
+    ["Bozzetto Frigg"]={
+        ["Raqs Baladi Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Chasting Disregard"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        }
+    }, 
+    ["Bozzetto Freyja"]={
+        ["Edifying Dance"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Petrifaction"]={
+            ["complete_reaction"]="facemob", 
+            ["ready_reaction"]="turnaround"
+        }, 
+        ["Implaing Disregard"]={
+            ["complete_reaction"]="", 
+            ["ready_reaction"]="facemob"
+        }
+    }
+}
